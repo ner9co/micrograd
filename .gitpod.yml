@@ -7,9 +7,9 @@ tasks:
       pre-commit install && pre-commit run
 
       # Install Python dependencies
-      poetry self update
-      poetry install
-      exit
+      # poetry self update
+      # poetry install
+      # exit
 
 
 vscode:
